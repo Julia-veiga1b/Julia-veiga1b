@@ -2,7 +2,7 @@
 
 - ♡ Meu nome é Julia 🎀
 
-- 🌸 Estou estudando no Tiradentes (っ´ω｀)っ ☆
+- 🌸 Estou estudando no Tiradentes っ ☆
 - 🍡 Estou me desenvolvendo no github ☆
 - ❤️ ≧ω≦ Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos ☆
 
@@ -11,6 +11,5 @@
 Julia.veiga.colaco@escola.pr.gov.br
 
 @Julia-veiga1b
-
 
 ![](https://tenor.com/pt-BR/view/alucard-meme-romania-gif-22918347)
